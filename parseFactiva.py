@@ -1,7 +1,7 @@
 """Read documents downloaded from factiva and split into articles
 with relevant attributes
 """
-
+import codecs
 from os import listdir
 from os.path import isfile, join
 
@@ -9,21 +9,44 @@ def read_docs(di):
 	docs=[]
 	file_list = [join(di,f) for f in listdir(di) if isfile(join(di,f)) ]
 	for f in file_list:
-		docs.append(open(f).read())
+		docs.append(codecs.open(f,encoding='utf-8').read())
 	return docs
 
 def split_docs(doc):
 	#print doc
-	articles = doc.split("____________\n")
-	paper_codes = []
+	articles = doc.split("____________")
+	print len(articles)
 	return articles
 
-def parse_article(art):
+def parse_article(art, ident):
+	outpath = "/home/paul/Dropbox/LSETextMining/code/articles"
+	this_paper = 'error'
+	paper_names=codecs.open('newspaperNames.txt',encoding='utf-8').readlines()
+	paper_names = [p.strip() for p in paper_names]
 	lines = art.split("\n")
-	print lines
+	lines = [line.replace('\r','') for line in lines if len(line)>1]
+	for line in lines[0:10]:
+		if line in paper_names: 
+			this_paper = line
+	fname = this_paper+'_'+ident+'.txt'
+	jsn = '{"newspaper":'+'"'+this_paper+'",'+'"id:"'+ident+'"}'
 
-d = "C:\\Users\\Paul\\Dropbox\\LSETextMining\\code\\articles"
+	outfile = codecs.open(join(outpath,fname), "w", "utf-8")
+	outfile.write(jsn+"\n")
+	for line in lines:
+		outfile.write(line+"\n")
+	outfile.close()
+
+
+d = "/home/paul/Dropbox/LSETextMining/code/documents"
+
 docs = read_docs(d)
 articles = [] 
+print len(docs)
 for d in docs: articles.extend(split_docs(d))
-for a in articles[4:15]: parse_article(a)
+
+print len(articles)
+i = 0
+for a in articles:
+	parse_article(a,str(i))
+	i+=1
