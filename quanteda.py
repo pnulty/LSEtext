@@ -75,6 +75,10 @@ class Document(object):
         def __str__(self):
                 return "fname: %s variables: %s " % (self.fname, self.variables)
 
+        def remove_stopwords(stopwords):
+                pass
+
+
 
         def preprocess(self):
                 """downcase and remove punctuation"""
