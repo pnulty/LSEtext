@@ -2,6 +2,7 @@ twitter/
 sample/
 documents/
 newsArticles/
+mergedArticles/
 articles/
 *~
 *.pyc
