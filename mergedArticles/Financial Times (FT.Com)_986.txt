@@ -1,0 +1,67 @@
+{"newspaper":"Financial Times (FT.Com)","id:"986"}
+____
+  
+Innovation and excellence is developing across Europe
+By Sharmila Devi   
+1,660 words
+19 May 2014
+21:59
+Financial Times (FT.Com)
+FTCMA
+English
+Copyright 2014 The Financial Times Ltd. All rights reserved. Please do not cut and paste FT articles and redistribute by email or post to the web.   
+The pace of creativity is far from uniform across Europe. Some areas have developed a reputation for producing and developing exciting business ideas.
+In cases such as London and bioscience the reasons are easy to understand. The UK capital stands at one corner of a triangle, with Oxford and Cambridge as the other two points, in which the sciences have long attracted some of the best funding and minds in the world. Other cases are less obvious, though, such as the expertise in aerospace engineering in the Czech Republic. During the Soviet years training was excellent, and the current expertise is a direct descendant of that era.
+In the same field, Wales had the foresight to offer incentives in a new industry with a great deal of potential.
+. . .
+London: Bioscience
+To explain London's lead as a bioscience cluster, Steve Bates, chief executive of the BioIndustry Association (BIA), uses the example of synthetic biology.
+"Synthetic leather, which has never been near a cow, can be grown from cells. Companies doing this here in London can immediately go and talk to the fashion industry to find business applications," he says. "They're not stuck in some science park but in a global city."
+The UK has the largest pipeline of any biotech specialist area outside the US, according to a report last year produced by the BIA and financial services consultancy firm EY.
+The UK biotech sector had more than 400 potential products in the pipeline in 2013 and was the leader in Europe, with Germany and Switzerland filling the next two positions. Globally, California and Massachusetts have the lead.
+London, together with Oxford and Cambridge, helps southeast England to "punch above its weight", says Bates. World-class universities, a long history of scientific innovation, the National Health Service, and London's status as a global city in many other sectors from financial services to fashion all combine to attract talent from around the world.
+In April, Boris Johnson, the mayor of London, launched MedCity, a group of academics and business people who will work to attract more life sciences companies to London, Oxford and Cambridge.
+Next year, the £500m Francis Crick Institute will open in London for research into the diagnosis, treatment and prevention of disease and to generate new economic opportunities for the UK. Alongside the Crick is Oxford's proposed £21m bio-escalator and Cambridge's £212m MRC Laboratory for Molecular Biology.
+There are substantial hurdles to be overcome, though, such as a venture capital sector that is small compared with the US; making sure people can get visas to work in the city; and high prices.
+And in one way London's success is its enemy, says John Williams, head of clinical activities at the Wellcome Trust, the leading science and research charity.
+He says: "Cost-of-living issues pose big barriers to our ability to attract the best young talent."
+. . .
+Czech Republic: Aerospace
+Aerospace has long been a significant part of the Czech industrial mix. Over the past 100 years, including several decades of Communism, it has advanced from lower categories of aerospace production to more sophisticated products such as commercial aircraft and military jets. 
+"In the early 1990s, after the fall of the Iron Curtain, the industry took a significant hit as it had lost essentially all its 'traditional', eastern markets and was not ready to face highly competitive and technologically advanced western markets," says Jan Chmelík, aerospace manager at business development agency Czech Invest.
+"However, the Czech Republic was able to build on tradition, technical competence and manufacturing excellence and over the course of 20 years, the aerospace sector is returning to the vanguard of competitive innovation," adds Chmelík.
+ Most Czech companies are involved in multinational, joint programmes or research projects and co-operate with top corporations such as Airbus Group, GE Aviation, Honeywell, Sikorsky and Embraer.
+"We are proud that we had an opportunity to work with companies such as Honeywell, which has manufacturing plants as well as a global research and development centre and a business support service centre in the Czech Republic," says Chmelík.
+"Honeywell's Prague laboratory was the first lab that the corporation established outside the US. GE Aviation produces the new H80 turboprop engine in its Prague facility - the first GE engine that was designed and developed outside the US."
+Working closely with the aerospace industry to ensure the sector has enough qualified people is a key priority. "Having enough capacity to cope with growing demand and competitiveness is one of the essential issues in the years to come," he says.
+The main competition is in Asia. "However, we feel that the Czech Republic has an advantage in such a high-tech sector because even though there may be countries with lower labour costs, the innovation and competence is missing," he says.
+"Rather than see Europe as competition, we prefer to feel European and identify opportunities for Czech aerospace companies to contribute to Airbus's leading position in the global market."
+. . .
+Wales: Drones
+The only airspace in Europe where both military and civilian unmanned aerial vehicles, or drones, can be flown alongside normal manned aircraft is in west Wales near the village of Aberporth.
+West Wales Airport and, since last year, Newquay Cornwall Airport in the UK's West Country together form the National Aeronautical Centre, which has helped to boost investment in drone technology by providing the space for companies to test their products.
+"We are the gateway to the marketplace. We've done our bit and created the motorway and it's up to the manufacturers to create the cars," says Ray Mann, the entrepreneur who developed the former military airport in Wales.
+"Civilian unmanned systems as a market is going to be worth $100bn over the next decade or so and we're right at the front edge."
+He points to potential UAV applications such as flying cargo, search-and-rescue operations, patrolling borders, repairing power lines and even carrying broadband capability as part of disaster support.
+Companies such as Thales, Selex ES and 3SDL have facilities at Parc Aberporth, a Welsh government-owned technology park next to West Wales Airport, where they can test UAVs in 2,000 km over the sea and 500 km over land. 
+It is also the base where the UK Ministry of Defence is testing the £800m Watchkeeper unmanned aerial system, which has drawn some anti-war and local protesters.
+The MoD is looking at ways of extending the number of sites within the UK where it could fly drones but for the time being, West Wales and Newquay form a leading, if unusual, cluster for drone-testing technology.
+. . .
+Leipzig-Halle: Logistics
+Since 2005, a number of leading companies have clustered their logistics operations around the Leipzig-Halle airport, including DHL, AeroLogic and Lufthansa Cargo, creating one of Europe's newest hubs.
+"It was a major decision of DHL to relocate its hub from Brussels," says Uwe Arnold, cluster manager for Netzwerk Logistik Leipzig-Halle, which hosts businesses, academia and local administration.
+He says the new hub's success is down to three main reasons. First, there is good infrastructure created after the 1990 unification of Germany as well as physical space in the region for companies to expand. Second, it has good proximity to EU markets in central and eastern Europe. Third, the airport is open 24/7 while other cities grapple with residents' objections to expansion because of noise and traffic.
+"Two major players, Porsche and BMW, made the decision to concentrate some of their important production facilities in Leipzig," says Arnold. "One of the reasons for this is there is a more skilled workforce compared with Bavaria and southwest Germany. Other companies have followed on this momentum."
+Competitors for Leipzig to watch include Nuremberg, Hanover, Munich and Berlin. Outside Germany, the traditional hubs in the Benelux countries, Austria, Switzerland, the Czech Republic and Poland are kept under scrutiny.
+"The challenge will be to keep the momentum because we've had such high growth," says Arnold. "We're always trying to improve the tech levels inside the cluster with greater investment in infrastructure such as cloud and web applications for logistics."
+. . .
+London: Silicon Roundabout and beyond
+Recent headlines have spoken of a brain drain away from London's Silicon Roundabout, the cluster of tech companies around Old Street, towards Berlin's Silicon Allee because of the expense of living and working in the UK capital and restrictive immigration policies.
+But David Slater, director of international business development at London & Partners, the city's promotional organisation, says London as a whole remains pre-eminent for technology innovation.
+"Tech is spreading out from Camden to Croydon. If you look at the [recently upgraded] Overground rail line, it provides a map of where there are companies," he says.
+London's relative strengths remain in place, says Slater. These include access to customers and markets, the business environment including tax and employment laws and policies, and a large and diverse talent pool.
+"London has 40 ethnic communities each totalling more than 10,000 people. Only New York is comparable in diversity." 
+Slater points to Rekoo, a mobile gaming company and the first mainland Chinese company to announce last year it was moving to London and building a new development team. "Chinese investors tell me they feel welcome in London and they don't feel that in other European cities," says Slater.
+London has more co-working space, where desks can be rented singly or in groups, than anywhere in Europe except Spain, and the most incubators, he says. He also cites Greater London Authority figures showing that London has 34,000 tech companies employing around 160,000 employees, which is around 30 per cent higher than five years ago.
+"We've stepped up our message to the world that London as a whole is Europe's tech capital," Slater says.
+Document FTCMA00020140519ea5j005br

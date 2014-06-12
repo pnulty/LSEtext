@@ -1,0 +1,42 @@
+{"newspaper":"London Evening Standard Online","id:"2611"}
+____
+  
+PA News Feeds
+BT 'refuses to deny data handover'
+925 words
+18 March 2014
+18:20
+London Evening Standard Online
+NSONL
+English
+(c) 2014 Evening Standard Limited.   
+British Telecom - one of the country's biggest communications providers - has refused to deny that it has handed over data on millions of customers in bulk to Government agencies, such as listening post GCHQ, a group of MPs has been told.
+Civil liberties campaigners Big Brother Watch wrote to BT in light of revelations in the US, prompted by disclosures made by whistle-blower Edward Snowden, that communications provider Verizon had been collecting customer data en masse and handing it to the National Security Agency (NSA).
+Big Brother Watch director Nick Pickles told the Home Affairs Select Committee that FTSE 100 giant BT had provided "no substantive answer" to the question of whether they had handed over masses of customer data to the UK Government.
+Mr Pickles told MPs he feared BT was providing data under section 94 of the Telecommunications Act, which gives the Secretary of State broad powers to demand information from an individual or organisation in the interests of national security.
+And in the same evidence session, the Intelligence Services Commissioner Sir Mark Waller, who reviews warrants issued by the Secretary of State authorising intrusive surveillance, admitted he has no power to monitor use of s.94 of the Telecommunications Act.
+Immigration and security minister James Brokenshire MP told the Committee he could "neither confirm, nor deny" that s.94 has been used by the Government to demand BT or other firms hand over customer data.
+Mr Pickles said: " Late last night, I received a letter from BT refusing to deny that they are handing over information in bulk on thousands or millions of British citizens."
+Mr Pickles said Mr Brokenshire had previously refused to provide an answer to a similar parliamentary question to MP David Davis, who was also providing evidence to the Committee.
+The Big Brother Watch director, who recently returned from a trip to the US with Mr Davis to examine the oversight mechanisms in place for security services on the other side of the Atlantic, said metadata from landlines, email addresses or mobile phones could be targeted.
+"My concern is that there is activity going on under the Telecommunications Act, which is unsupervised. And that's why BT cannot publicly refuse that they're handing over information in bulk."
+Asked by Conservative MP James Clappison who the data was being handed to, Mr Pickles replied: "Well, this is the question. We simply don't know. Questions in the House have been met with the usual response."
+Mr Clappison later asked Mr Brokenshire MP about the correspondence between Big Brother Watch and BT.
+The minister said: "There's reference to section 94 of the Telecommunications Act.
+"The Secretary of State under these provisions may make orders under the act, which for national security reasons, may not be disclosed.
+"If the question relates to section 94 of the Telecommunications act, then I'm afraid I can neither confirm, nor deny any issues in relations to the utilisation or otherwise of section 94."
+Earlier, the Intelligence Services commissioner was quizzed over the use of the act.
+Sir Mark, who was summoned to the Committee after initially refusing an invite to attend and give evidence, said it was "simply not part of my statutory insight".
+But he suggested he would ask the Prime Minister to broaden his oversight powers to take in use of section 94.
+Liberal Democrat MP Julian Huppert asked: " You're presumably familiar with section 94 of the Telecommunications Act 1984 which gives very broad powers in the interests of national security to do essentially anything.
+"What role do you play in supervising how it's used, monitoring the use, checking it's all proportionate?"
+Sir Mark replied: "That is just simply not part of my statutory oversight.
+"I've heard your concern about this. As you know, the new legislation allows me to take up with the Prime Minister whether there are things that I or somebody else should have oversight of. It seems to me that that's an example of where it would be right to have a word with the Prime Minister."
+Mr Huppert said: "I would be interested to know if anybody looks at how it's used. I'm also surprised because your own website, intelligencecommissioners.com, says 'Sir Mark Waller charged with overseeing the broader conduct of the Intelligence Services in relation to the discharge of their functions'. And yet you're saying despite the fact this is part of their function, you don't have any responsibility for it."
+Sir Mark replied: "No I don't have an oversight.... There is no oversight, statutory oversight of that section."
+After the Committee hearing, Mr Davis said: "It is now apparent from what was said by (Interception of Communications Commissioner) Sir Anthony May and Sir Mark Waller that any block data collection from UK telecommunication companies under the 1984 Telecommunications Act is wholly without oversight or supervision.
+"This is the British agencies equivalent of the secret powers taken by the American agencies to spy on their own citizens without any democratic checks or balance.
+"This should be corrected as a matter of urgency and I hope the Home Affairs Select Committee will make that recommendation when it publishes it report."
+In its letter to Big Brother Watch, seen by the Press Association, BT says it takes "all its legal obligations very seriously".
+"We try to set high standards for ourselves and to stay abreast of all the developments in the relevant debates," it adds.
+Document NSONL00020140319ea3i001kl

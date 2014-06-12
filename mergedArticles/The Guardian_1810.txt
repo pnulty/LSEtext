@@ -1,0 +1,25 @@
+{"newspaper":"The Guardian","id:"1810"}
+____
+  
+Guardian Home Pages
+pounds 500m scheme cannot measure immigration, ministers admit
+Alan Travis, Home affairs editor   
+439 words
+23 April 2014
+The Guardian
+GRDN
+9
+English
+© Copyright 2014.  The Guardian.  All rights reserved.   
+The Home Office's pounds 500m e-Borders programme, which is designed to check everybody coming in and out of Britain and has taken more than 10 years to develop, cannot be used to estimate immigration, ministers have admitted.
+They told MPs on the public administration select committee (PAC) that data from the programme cannot be used to replace the existing methods of estimating net migration to Britain because it does not collect information about whether passengers are long-term migrants or just visitors or tourists.
+In fact, the Home Office has said it would be illegal under European Union legislation on free movement to routinely ask passengers how long they intend to stay or their purpose in entering the UK.
+The disclosure came in an official response to a PAC report that had said the existing method of estimating net migration based on the international passenger survey (IPS) was "not fit for purpose".
+The MPs recommended that ministers should no longer base their key immigration target of getting net migration below 100,000 by next year's election on "such an uncertain statistic".
+Home Office ministers rejected the MPs' claim that the IPS, in which more than 700,000 passengers a year are interviewed, was inadequate for measuring, managing and understanding migration levels. In their official response published yesterday, ministers cited the UK Statistics Authority in supporting their view that the IPS remained as reliable and accurate as possible and was "currently the best available estimate of net migration".
+The official reassurance follows the disclosure earlier this month by the Office for National Statistics that net migration - the number of people coming to live in the UK for more than 12 months minus those going to live abroad for more than 12 months - had been underestimated by 346,000 between 2001 and 2011. The ONS said improvements to the IPS since 2009 had dealt with the problem.
+MPs on the PAC had told the Home Office that they were so unimpressed by the estimates based on the survey that the ONS and the Home Office should move as quickly as possible to start using e-Borders data to measure immigration, emigration and net migration.
+But the Home Office said the Border System Programme, as it is now called, under which passengers have to supply their name, nationality, gender, date of birth and passport details, could not be used to replicate the questions asked during the in-depth survey.
+Captions:
+The Border System Programme cannot be used to replicate an in-depth survey
+Document GRDN000020140423ea4n00025

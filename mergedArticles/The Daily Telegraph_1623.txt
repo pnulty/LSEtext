@@ -1,0 +1,28 @@
+{"newspaper":"The Daily Telegraph","id:"1623"}
+____
+  
+News
+Give us access to private data, says ONS
+John Bingham   
+458 words
+28 March 2014
+The Daily Telegraph
+DT
+1; National
+12
+English
+The Daily Telegraph © 2014. Telegraph Media Group Ltd.   
+BRITAIN'S data chiefs are calling for a change in the law so they can harvest personal information from areas such as the tax and benefits systems.
+The Office for National Statistics says access to private records held on government computers will help track immigration and population shifts.
+Primary school admissions lists or student accommodation details could also potentially be used to pinpoint local population movements to ensure public services are better prepared. The ONS says the move could transform the way data is used without compromising privacy.
+The call came as the ONS refused to bow to pressure from ministers and abolish the census in order to save hundreds of millions of pounds.
+Under alternative proposals, which have been sent to Francis Maude, the Cabinet Office Minister, the traditional paper census forms will be scrapped after 200 years and replaced with an online questionnaire.
+Elderly people or those without access to the internet will be given special assistance, but officials hope the plan will still slash the potential cost of the next census in 2021 from a feared £800 million to about £625million. The ONS rejected a more radical plan to scrap the population survey altogether and rely on information drawn from Government databases.
+Jil Matheson, the National Statistician, said other countries that had axed their census and used other sources of data also operate formal population registers, which the UK does not have.
+She said such a move could lead to Britain's population being overestimated – as well as depriving future generations of a vital historical source. However, she argued that ONS should still be able to increase the use of Government data to which it does not currently have access.
+"If it were acceptable to the public and Parliament, detailed statistics about income and employment could be produced using data from the tax and benefit systems," she said.
+"ONS already makes limited use of the administrative data to which it has access, and would like to do more in order to improve the quality and frequency of statistics between decennial censuses.
+"The [UK Statistics] Authority and ONS are absolutely committed to preserving the confidentiality of personal data and to protecting the privacy of individuals and recognise that the public must have confidence in this if the uses of administrative data are to advance."
+Peter Benton, director of the ONS's Beyond 2021 programme, said it was "common sense" to explore how best to use information that is already being provided when millions of Britons access public services.
+He added: "We want to make sure people know that we treat data very, very seriously and we are aware of the concern that people have had."
+Document DT00000020140328ea3s00074

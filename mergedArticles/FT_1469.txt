@@ -1,0 +1,26 @@
+{"newspaper":"FT","id:"1469"}
+____
+  
+FRONT PAGE - FIRST SECTION
+UK gains 'super' powers to flag YouTube fears
+By Sam Jones, Defence and Security Editor   
+505 words
+13 March 2014
+Financial Times
+FTFT
+London Ed1
+01
+English
+Copyright 2014 The Financial Times Ltd. All rights reserved. Please do not cut and paste FT articles and redistribute by email or post to the web.   
+Google has given British security officials special access to its YouTube video site, allowing them to have content instantly reviewed if they think it threatens national security.
+The new "super flagger" powers underline growing concern among governments that are scrambling to contain the proliferation of jihadi material prompted by the war in Syria, but they are likely to stir concern among civil liberties campaigners.
+Western spymasters now cite the radicalisation of their own citizens who go to fight against Bashar al-Assad's regime as their leading terror concern. An estimated 2,000 fighters, including 400 from Britain, have gone from European countries to Syria.
+The YouTube permissions that Google has given the Home Office in recent weeks include the power to flag swaths of content "at scale" instead of only picking out individual videos. They are in part a response to a blitz from UK security authorities to persuade internet service providers, search engines and social media sites to censor more of their content for extremist material even if it does not always break existing laws.
+UK authorities have already ramped up their use of existing legal powers to strip extremist content from the internet. The Home Office's Counter Terrorism Internet Referral Unit has authorised 8,000 "takedowns" of content in the past eight weeks alone, according to people familiar with the matter, compared with 21,000 similar legal removals over the past four years.
+The UK's security and immigration minister, James Brokenshire, told the Financial Times that the government had to do more to deal with material "that may not be illegal but certainly is unsavoury and may not be the sort of material that people would want to see or receive".
+He said that among the issues being considered by the government was a "code of conduct" for internet service providers and internet companies.
+The government, he added, was also keen to explore options whereby search engines and social media websites change their algorithms so that unsavoury content is less likely to appear or is served up with more balanced material - a highly contentious suggestion that is likely to be met with resistance. Google confirmed that the Home Office had been given powerful flagging permissions on YouTube but stressed that the company retained the ultimate decision on whether to remove content for breaching its community guidelines.
+"We have a zero-tolerance -policy on YouTube towards content that incites violence," YouTube said. "Our community guidelines prohibit such content and our review teams respond to flagged videos around the clock, routinely removing videos that contain hate speech or incitement to commit violent acts.
+"To increase the efficiency of this process, we have developed an invite-only program that gives users who flag videos regularly tools to flag content at scale."
+Google has also offered free, targeted advertising to antiextremism charities to promote their content alongside searches used by those looking for unsavoury material.
+Document FTFT000020140313ea3d00006

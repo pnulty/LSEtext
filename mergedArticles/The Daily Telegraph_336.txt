@@ -1,0 +1,20 @@
+{"newspaper":"The Daily Telegraph","id:"336"}
+____
+  
+News
+Terror fears caused hours of airport delays
+181 words
+2 May 2014
+The Daily Telegraph
+DT
+1; National
+2
+English
+The Daily Telegraph © 2014. Telegraph Media Group Ltd.   
+News Bulletin
+Fears that terrorists and wanted criminals could slip into Britain were responsible for delays which held up thousands of passengers entering the country on Wednesday night.
+Travellers were delayed for several hours at Heathrow, Gatwick and other major airports and ports following a computer glitch involving both manual and electronic passport control.
+Sources said the fault was linked to the Home Office's "Warnings Index", a national security system that the National Audit Office claimed eight months ago was "at risk of collapsing".
+The system, aimed at preventing dangerous criminals entering the country, was introduced in the early Nineties with an intended shelf life of just seven years and is no longer up to date, the NAO warned. When passports are scanned by border officers, the system automatically checks passengers' details against a register of terrorists, criminals, wanted persons and immigration offenders.
+The glitch in the system meant staff were unable to access the database automatically and had to input passport details manually, causing long queues to form at the border.
+Document DT00000020140502ea5200064

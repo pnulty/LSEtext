@@ -18,16 +18,34 @@ def split_docs(doc):
 	print len(articles)
 	return articles
 
-def parse_article(art, ident):
-	outpath = "/home/paul/Dropbox/LSETextMining/code/articles"
+
+
+def paper_mapping():
+	mapping = codecs.open('paperMappings.txt',encoding='utf-8').readlines()
+	papermap = []
+	for line in mapping:
+		parts = line.split(':')
+		oldnames = parts[0].split(',')
+		newname = parts[1].strip()
+		papermap.append((oldnames,newname))
+	print papermap
+	return papermap
+
+def parse_article(art, ident, paper_names, papermap):
+	outpath = "/home/paul/Dropbox/LSETextMining/code/mergedArticles"
 	this_paper = 'error'
-	paper_names=codecs.open('newspaperNames.txt',encoding='utf-8').readlines()
-	paper_names = [p.strip() for p in paper_names]
+
 	lines = art.split("\n")
 	lines = [line.replace('\r','') for line in lines if len(line)>1]
 	for line in lines[0:10]:
-		if line in paper_names: 
-			this_paper = line
+		if line in paper_names:
+			mapped = False
+			for p in papermap:
+				if line in p[0]:
+					print line
+					this_paper = str(p[1])
+					mapped = True
+			if not mapped: this_paper = line
 	fname = this_paper+'_'+ident+'.txt'
 	jsn = '{"newspaper":'+'"'+this_paper+'",'+'"id:"'+ident+'"}'
 
@@ -42,11 +60,13 @@ d = "/home/paul/Dropbox/LSETextMining/code/documents"
 
 docs = read_docs(d)
 articles = [] 
-print len(docs)
+paper_names=codecs.open('newspaperNames.txt',encoding='utf-8').readlines()
+papermap = paper_mapping()
+paper_names = [p.strip() for p in paper_names]
 for d in docs: articles.extend(split_docs(d))
 
 print len(articles)
 i = 0
 for a in articles:
-	parse_article(a,str(i))
+	parse_article(a,str(i),paper_names,papermap)
 	i+=1

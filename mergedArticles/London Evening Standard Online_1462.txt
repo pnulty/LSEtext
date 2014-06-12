@@ -1,0 +1,25 @@
+{"newspaper":"London Evening Standard Online","id:"1462"}
+____
+  
+PA News Feeds
+Security chiefs get YouTube access
+410 words
+13 March 2014
+12:40
+London Evening Standard Online
+NSONL
+English
+(c) 2014 Evening Standard Limited.   
+British security officials have been given special access to Google's YouTube video website allowing them to have material considered a threat to national security to be instantly reviewed.
+The Home Office confirmed it had been given the new "super flagger" powers by Google amid concerns about the proliferation of jihadist videos on the internet.
+According to the Financial Times, the system has enabled officials to highlight whole swathes of material "at scale" rather than simply having to identify individual videos.
+The paper said that it was part of a drive by the UK authorities to persuade internet service providers, search engines and social media sites to censor more of their content for extremist material, even if it does not break the law.
+The moves come against a background of concern about the radicalisation of growing numbers of British nationals who have been inspired to join the revolt against President Bashar al-Assad's regime in Syria.
+Some 400 Britons are thought to have travelled to Syria to take part in the conflict and the security services fear that some will return to carry out terrorist attacks in their own country.
+Immigration and security minister James Brokenshire said: "Terrorist propaganda online has a direct impact on the radicalisation of individuals and we work closely with the internet industry to remove terrorist material hosted in the UK or overseas.
+"The Counter Terrorism Internet Referral Unit has already taken down more than 26,000 pieces of illegal terrorist online content since February 2010.
+"Through proposals from the Extremism Taskforce announced by the Prime Minister in November, we will look to further restrict access to material which is hosted overseas - but illegal under UK law - and help identify other harmful content to be included in family-friendly filters."
+Emma Carr of the Big Brother Watch campaign expressed concern at the extension of the power of the authorities to flag up material they wanted to be removed.
+"Governments shouldn't be deciding what we can see online. Google must be fully transparent about how the British Government uses this system to reassure people freedom of speech is not being chilled," she said.
+"While Google still has the final say about content being removed, it is troubling that the British Government is looking to extend its powers to remove content from the web without any independent judicial oversight, particularly where the content may not break any laws."
+Document NSONL00020140313ea3d00367

@@ -1,0 +1,36 @@
+{"newspaper":"The Observer","id:"271"}
+____
+  
+Observer Home News Pages
+Bankers, house prices ... and hedgehogs: the capital as you have never seen it before: The London Mapper website, launched today, gives a stark illustration of the city's social, political and demographic dividing lines
+by Daniel Boffey, Policy Editor   
+1,042 words
+11 May 2014
+The Observer
+OB
+15
+English
+© Copyright 2014.  The Observer.  All rights reserved.   
+It is a London that few have seen before. Hundreds of impenetrable sets of data about the capital - its people, property, burgeoning numbers of bankers and its haemorrhaging of hedgehogs - have been mapped to be brought alive, researchers hope, in a project that has been two years in the making.
+Professor Danny Dorling's London Mapper, to be launched online today, is intended to draw attention to the capital's extreme financial and social divides, while illuminating its trends, population movements and economic endeavours in a way that will be accessible to an audience beyond the confines of the Office for National Statistics.
+Each of London's boroughs, or wards, depending on the map, has been made smaller or larger, depending on the issue being number-crunched, illustrating stark differences across 300 topics.
+For all the warnings of a housing price bubble, and the countless statistics cited by estate agents to prove the point, a map highlighting London's increase in property values from 2012 to 2013 compared with the rest of England and Wales tells the story of the recent property boom more eloquently than most.
+"It jumps out of the page at you," said Mubin Haq, director of policy and grants at the Trust for London charity, which has funded the project. "It shows what is happening in a way that the figures cannot do."
+London emerges, swirling out, pushing up the property values of satellite areas, driven by an epicentre of wealth in Kensington and Chelsea and in Westminster - larger than the rest of the boroughs to signify their affluence. The total value of housing has increased by pounds 1bn in Kensington and Chelsea and pounds 921m in Westminster between 2012 and 2013.
+"London is very different," Haq said. "There are huge differences compared with the rest of the country but there are just as significant disparities within London. Lots of people in London aren't sharing in the wealth we see in the property-value map.
+"The homelessness map is interesting. Where have we seen the greatest increase in sales value in housing? One of the boroughs that stands out is Westminster. But where have we got the largest number of homeless people? That very same borough."
+In the map of homelessness, based on counts and estimates of rough sleeping in autumn 2013, London appears almost as a black hole, with Westminster in dark blue, dominant at the centre. Around 140 rough sleepers are estimated to live in Westminster, according to the Department for Communities and Local Government.
+Two boroughs - Barking and Dagenham, and Sutton - disappear from the capital because there are believed to be no rough sleepers there.
+Skip to maps documenting where particular ethnic groups or people of particular faiths have settled and London looks very different. There are just 263 Sikhs in Kensington and Chelsea, out of a population of more than 158,000, meaning the borough is crushed to its east and west on the map.
+To the north, more than 54,000 Jews live in Barnet alone, but there are only about 9,000 south of the Thames, according to the 2011 census.
+Dorling, who was aided in his mapping by Dr Benjamin Hennig of Oxford University's school of geography, said: "You can also see a move of Jewish people back to the east of London, where they were 100 years ago. They almost entirely left the East End as new immigrants came in, but young people from that community are not moving back as it is becoming gentrified."
+It is not only people that are mapped. The geography of peregrine falcons, stag beetles, muntjac deer and even hedgehogs has a place on the site. The 1,272 sightings of hedgehogs in Richmond upon Thames last year hugely distorts London's familiar features. In contrast, there were no sightings in the City, only one in Tower Hamlets and five in Kensington and Chelsea.
+It is unlikely to hinge on the hedgehog map, but Dorling hopes the London Mapper will be as big a success as its forerunner, the World Mapper, which mapped the globe according to indices such as GDP per capita and life expectancy.
+Dorling said: "When we started putting stuff out there in 2006 on World Mapper we expected some small academic interest. It has now had something like 26m hits. It nearly brought down the server at Sheffield University where I was then working."
+London Mapper will continue to grow, potentially to hold three times more maps, building on a database that covers everything from obesity to car ownership and income.
+"You will be able to see the housing bubble inflate," said Dorling. "You can show people the numbers and they switch off. But these maps are like fancy pie charts, and if something is twice the size of something else it is obvious. We just want to spark a debate about the differences in one big city.
+"London was the obvious city to do because it is the one on which we probably have more quality data than anywhere else. That's partly because the British are obsessed with collecting numbers. The next step is to do continental Europe and other major cities.
+"I think the maps will work for people under a certain age - 35 or under in particular. There is an incredible increase in capacity to understand abstract concepts, images and maps, generation by generation. We can do things now for the public that we would have shown only in a university hall 20 or 30 years ago."
+Captions:
+Danny Dorling and his team working on London Mapper have taken tables of data on hundreds of different social issues and created maps that are distorted according to what the numbers mean; for example, if it is much more expensive to rent in Westminster than in Ealing, then the borough of Westminster will be stretched and bigger on the map than Ealing. The large number of hedgehog sightings in Richmond distorts the familiar geography.
+Document OB00000020140512ea5b00024

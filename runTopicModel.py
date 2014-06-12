@@ -1,7 +1,7 @@
 import codecs
 from os import listdir
 from os.path import isfile, join
-import gensim
+from gensim import corpora, models, similarities
 import string
 import nltk
 import quanteda
@@ -38,31 +38,27 @@ news_corpus.preprocess()
 
 texts=[]
 stopfile = "/home/paul/Dropbox/LSETextMining/code/stopwords.txt"
-stopwords = codecs.open(stopfile,encoding='utf-8').readlines()
+stopwords = [s.strip() for s in codecs.open(stopfile,encoding='utf-8').readlines()]
 for m in news_corpus.documents:
 	words = m.text.split()
 	words = filter(lambda word: word not in stopwords, words)
-
 	texts.append(words)
 
-dictionary = gensim.corpora.Dictionary(texts)
+dictionary = corpora.Dictionary(texts)
 corpus = [dictionary.doc2bow(text) for text in texts]
-gensim.corpora.MmCorpus.serialize('/tmp/irl.mm', corpus)
-corpus = gensim.corpora.MmCorpus('/tmp/irl.mm')
+corpora.MmCorpus.serialize('/tmp/irl.mm', corpus)
+corpus_bow = corpora.MmCorpus('/tmp/irl.mm')
 
-tfidf = gensim.models.TfidfModel(corpus)
-corpus_tfidf = tfidf[corpus]
+tfidf = models.TfidfModel(corpus_bow)
+corpus_tfidf = tfidf[corpus_bow]
 #print corpus_tfidf
 #print dictionary
-id2word=dictionary
-lsi = gensim.models.lsimodel.LsiModel(corpus=corpus, id2word=dictionary, num_topics=100)
-lsi.print_topics(10)
-for j in lsi.print_topics(10):
+ldamodel = models.LdaModel(corpus_bow, id2word=dictionary, num_topics=20)
+
+#ldamodel = models.LdaModel(corpus_tfidf, id2word=dictionary, num_topics=20)
+
+
+for j in ldamodel.show_topics(topn=40):
 	print j
 	print "\n ** next ** \n"
 
-#model = gensim.models.ldamodel.LdaModel(corpus_tfidf, id2word=dictionary, num_topics=10, update_every=0, passes=10)
-#model.show_topics(10)
-#for j in model.print_topics(10):
-#	print j
-#	print "\n ** next ** \n"

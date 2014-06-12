@@ -1,0 +1,29 @@
+{"newspaper":"The Times","id:"1697"}
+____
+  
+Features
+Duty to give reasons before removal
+632 words
+18 April 2014
+The Times
+T
+1; National
+67
+English
+© 2014 Times Newspapers Ltd. All rights reserved   
+Law Report
+Queen's Bench Division Published April 18, 2014
+Thapa v Secretary of State for the Home Department
+Before Helen Mountfield, QC Judgment March 11, 2014
+It was incumbent upon an immigration official to communicate outline reasons, including at least the gist of the evidence behind his decision, to a person whom he had decided to remove from the United Kingdom pursuant to section 10 of the Immigration and Asylum Act 1999.
+Ms Helen Mountfield, QC, sitting as a Deputy Queen's Bench Division judge, so held in allowing the claim of Hom Bahadur Thapa for judicial review of the decision of the Secretary of State for the Home Department to expel him from the UK because it was said that he had breached the terms of his residency.
+The claimant was from Nepal and had come to the UK to study. As was usual in the case of study visas he had originally been allowed to work, however his most recent visa had been granted without such permission. Home Office officials claimed that he had been working in breach of those most recent arrangements and directed his removal from the UK under section 10 of the Immigration and Asylum Act 1999. Where section 10 was invoked against a person they retained only an out of country right of appeal.
+Mr Michael Biggs for the claimant; Mr Matthew Barnes for the defendant.
+HER LADYSHIP said that one limb of the claimant's argument was that fairness demanded that he be given reasons for the exercise of discretion to take enforcement action under section 10 of the 1999 Act.
+The secretary of state conceded that the immigration officer had to have reasonable evidence upon which she could form a rational judgment that the claimant was working in breach of his visa conditions, at the time of taking enforcement action, but submitted that fairness only required that evidence to be communicated to the affected person when he appealed.
+That submission was not accepted, for two reasons. First, the court had to be in a position to see that the decisionmaker appreciated at the point of making a section 10 decision that she had a discretion, and that she had exercised it fairly and in accordance with the secretary of state's published policy, or that she had recognized that she was departing from it and had said why that was so.
+That did not require very detailed reasons, but it did require enough to enable the court to see that the decisionmaker had correctly addressed the issue of discretion and, at least on her own stated case, had rational grounds for doing so. Otherwise, the court could not see that the decision-maker had acted fairly in determining that the other potential issues of fact and law ought to be determined on an out-of-country, rather than an in-country appeal
+There was a second reason why fairness demanded that at least outline reasons be given at the point of making a section 10 decision: being able to proceed with an appeal only out of country created certain practical difficulties for an appellant. Seeking and paying for access to a video link was one potential issue. Securing evidence in the UK was another.
+Fairness demanded that at least the gist of the evidence upon which a removal decision under section 10 of the 1999 Act was taken would be communicated to the subject of that decision at the time when the decision itself was communicated, both in order to ensure that the court could see that there had been a lawful and rational exercise of discretion and also to ensure that the appeal process was as fair as possible.
+Solicitors: Sam Solicitors, Sutton; Treasury Solicitor.
+Document T000000020140418ea4i0008m

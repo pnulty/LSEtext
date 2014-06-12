@@ -1,0 +1,27 @@
+{"newspaper":"thetimes.co.uk","id:"763"}
+____
+  
+Crime
+Send snoopers to jail to keep medical data safe, says watchdog
+David Brown   
+509 words
+25 February 2014
+00:01
+thetimes.co.uk
+TIMEUK
+English
+© 2014 Times Newspapers Ltd. All rights reserved   
+The privacy watchdog has called for prison sentences for those who obtain private information illegally in an attempt to reassure patients about the introduction of a central database for medical records.
+Alistair Graham, who was reappointed by the Government as the Information Commissioner last week, said that people convicted of illegally accessing sensitive personal details such as medical records had to be deterred with the threat of a jail sentence rather than the current maximum of a £5,000 fine.
+An NHS project to centralise patients’ medical records was delayed by six months last week in the face of opposition from doctors and patients because of fears over privacy. More than a third of the 14 cases brought by the Information Commissioner’s Office for unlawful accessing of personal information involved medical data.
+“We have had a number of prosecutions, including receptionists in doctors’ surgeries who have been accessing patients’ files, and they end up in a magistrate’s court and receive a relatively menial fine," Mr Graham said.
+The head of a private investigation company will be sentenced in April after his staff “blagged" details from GP surgeries and utility companies on behalf of major companies seeking to trace debtors. Another of the bosses of ICU Investigations in West London, which made an annual profit of £164,000, was last month fined £7,500 and five employees were fined between £1,000 and £4,000.
+Marcia Phillips, a GP’s receptionist in Southampton, was fined £750 for accessing highly sensitive information about her former husband’s partner on 15 occasions.
+Juliah Kechil, a former healthcare assistant at the Royal Liverpool University Hospital, was the first person to be convicted for unlawfully accessing personal data. She was fined £500.
+Mr Graham said that without greater penalties patients would remain concerned about unlawful access and the Government would not “have the confidence you need to deliver public services more efficiently". “The public’s concerns about big government data storage schemes are because of a lack of confidence that their records will have sufficient protection," he said.
+Mr Graham is considering whether to prosecute the 11 British clients of private investigators accused of stealing sensitive data on behalf of blue-chip companies.
+Powers to jail offenders for breaching data protection laws were included in the Criminal Justice and Immigration Act 2008 but have not been implemented. MPs on the Justice Select committee called for custodial sentences in 2011, saying fines provided little deterrent.
+Simon Hughes, the Justice Minister, said: “We have begun to review the sanctions available for breaches of the Act so we can decide whether to increase the penalties as the law permits."
+The NHS admitted yesterday that anonymous medical details of millions of patients were wrongly sold to the insurance industy. The Institute and Faculty of Actuaries paid £2,220 to obtain details on hospital admissions from 1989 to 2010 which were used to help insurance firms to price policies.
+Hugo Rifkind, page 23
+Document TIMEUK0020140225ea2p000gq

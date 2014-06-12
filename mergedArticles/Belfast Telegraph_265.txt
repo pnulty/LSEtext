@@ -1,0 +1,44 @@
+{"newspaper":"Belfast Telegraph","id:"265"}
+____
+  
+Features
+HELPING TO NETCROOKS
+Clare Weir   
+1,278 words
+12 May 2014
+Belfast Telegraph
+WBEL
+1; National
+42,43,44
+English
+© 2014 Independent News & Media (Northern Ireland)   
+With the demand for cybersecurity growing at a rapid pace, Clare Weir discovers why Northern Ireland is so well placed to play a role in tackling hacking and the like
+THESE days, everyone with a smartphone in their pocket is a one-person software company.
+And with more and more everyday transactions taking place through mobile devices such as phones and tablets, the opportunity for cybercriminals to access our financial details and personal information is on the rise.
+Bigger companies too are suffering, with hacking, phishing and disruption of service attacks — as well as intellectual property theft — causing increasing financial and reputational damage.
+With the demand for cybersecurity experts growing at 12 times the rate of the overall job market, Business Month took a look at what steps can be taken to safeguard our online presence, both personal and in a business capacity, and which companies are capitalising on the need for tougher security.
+Andy O''Donoghue (pictured) from BeaumeX, Ireland''s leading Apple and entertainment distributor, is a broadcaster and cybersecurity commentator. He says that the biggest threat to businesses is a lack of awareness.
+"SMEs (small and medium-sized enterprises), in particular, have no idea of the cost of a security breach. .. it''s not just financial, it''s not just the theft of money or of credit card details, but the theft of information and the damage to reputation," he said.
+"If you have five or 10 people in a company, if most of the sales come from online — if a website goes down for two or three days, lost sales and damage to reputation can be hugely expensive.
+"The cost of one hacking attack would be enough to put many small firms out of business. It''s been estimated that just three to five days of a website being down could cost between £30,000 and £50,000.
+"Initiatives like the Innovation Voucher and the 10 Steps to Cyber Security plan are a step in the right direction but there needs to be more awareness. Hackers are gaining access to customer lists and credit card information. In lots of cases companies are hacked and they don''t know it. A customer''s credit card details will be used and tested in small transactions and eventually the rate and size of the transaction may increase.
+"I think with the the surge in online and mobile payments, which is set to really increase over the next two years, and with the increase of things like online and mobile checkins at airports, more avenues for cybercrime will be opening up and this raises a lot of questions.
+"Will identity have to become further embedded in phones, will physical attributes become part of security? Clever electronics companies like Apple and Samsung are already looking at fingerprint and retinal ID technology."
+Northern Ireland is already home to some major companies which specialise in security and biometrics.
+One such firm is Core Systems, which makes software which drives security systems in a growing number of jails in the UK, the US, and other parts of the world. From its Crumlin Road base, it develops security and biometric software which can identify people from their personal characteristics, such as fingerprints or eyes.
+That lends itself to the the custody sector, including prisons, police stations and immigration centres, and it has found an eager market for its high-tech products.
+Core Systems is investing £700,000 in an expansion and research and development project to secure new opportunities in the US market. The firm frequently appears in the Deloitte Technology Fast 50 Awards, a list of the top 50 fastest-growing technology companies in Ireland and recently won an award at the Invest NI/British Airways Export Challenge Competition.
+A far younger company, which has spun out of the Centre for Secure Information Technologies (CSIT) at Queen''s University Belfast, is Liopa, the world''s first lip authentication processor for mobile devices, which could eventually replace the traditional security password. Initial product development has been funded through the Technology Strategy Board and the company is now working with a local point-of-sales firm Countering the attack É In March, The Economist Intelligence Unit launched CyberTab, a free and anonymous calculator that helps companies tally the cost of specific cyber attacks. É CyberTab users can input a range of expenses and estimated costs for either a specific attack scenario or actual breach. The tool will then generate a report details the cost and enables a cost-benefit analysis of security strategies. ÉThe Cyber Security UK Challenge is bringing together experts to design and develop a series of challenges and competitions that will test the nation's cybersecurity skills. This group is led by a management team consisting of professional bodies, government departments, private industry, and public sector organisations. ÉThe Technology Strategy Board in the UK has launched Innovation Vouchers for SMEs, entrepreneurs and early-stage start-ups who see value in protecting and growing their online business by having effective cyber security. The TSB makes £5,000 available to each successful applicant to fund initiatives such as a ''cyber audit'' for existing processes and for start-up companies needing to build cyber security into the business.
+ÉThe Cyber Security Guidance for Business, produced by CESG (the information security arm of GCHQ), the Department for Business Innovation and Skills and the Centre for the Protection of National Infrastructure, aims to help the private sector minimise the risks to company assets. The guidance includes a ''Ten Steps to Cyber Security'' programme for companies.
+to trial the software with a view to including it in their verification process.
+David Crozier, from the firm, was involved in organising the fourth annual cyber security conference hosted by the CSIT, at Queen''s University recently.
+Speakers from 12 different countries on four continents — representing Facebook, Intel, IBM, GCHQ, the Korea Information and Security Agency, Estonian Information System''s Authority and McAfee — all addressed the event.
+The conference heard that Queen''s University is to offer a new masters degree in cyber security, which will be launched this September.
+"Having our first reference company for Liopa is a big step and we are looking to build the company out, seek investment and ramp up recruitment and sales from an initial team of four," said Mr Crozier.
+"The selling point for lip biometrics is that companies don''t need to invest in biometric hardware like fingerprint scanners or sensing equipment — we are taking advantage of sensors and cameras already installed on phones, there is very little additional hardware needed," he explained He added that Northern Ireland is well placed to fill the global cybersecurity gap.
+He said: "If you look at the Belfast market in terms of skills, the raw material is. .. really well placed, in. .. our computer science and electronic engineering graduates, and the roll out of the MSc will just enhance that.
+"We try not to play up concerns but we are seeing more industrial espionage — attacks on intellectual property and trade secrets and the details of major infrastructure projects or sensitive security matters.
+"Small companies making tiny parts, which are part of a bigger international supply chain, need to look very carefully at their security as they could be seen as a weak link where criminals can gain an access point.
+"Network intrusion to seek customer databases and records, can sometimes not only be used to cause financial damage but to set up mirror companies and websites which can then be used for more advanced organised crime."
+The cost of one hacking attack would put most small firms out of business
+Document WBEL000020140511ea5c0001j

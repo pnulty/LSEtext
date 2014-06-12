@@ -1,0 +1,28 @@
+{"newspaper":"The Independent","id:"3013"}
+____
+  
+Business
+We need to remember that there is more to 'capital' than asset values
+Ben Chu   
+823 words
+9 May 2014
+The Independent
+IND
+1ST
+60
+English
+© 2014. Independent Print Ltd. All Rights Reserved.   
+Business | Chunomics
+"Capital" is the word on everyone's lips thanks to the French economist Thomas Piketty and his unlikely literary blockbuster, Capital in the Twenty-First Century.
+But what does capital actually mean? This is an important question, because it goes to the heart of the vociferous debate about equality and economic growth that Piketty's book has sparked. For Piketty, capital is essentially a short-hand for financial wealth. He uses it to refer to the current monetary value of all assets held throughout the economy, including stocks, bonds and property.
+But economists have tended to use definitions of capital that are both narrower and broader than this. First there is "fixed capital", which refers to firms' machinery and computer equipment and the factories they own. Then there is intellectual capital, which means things such as drug patents and ownership of valuable copyrights. This is capital that yields a measurable cash return.
+As the chart below demonstrates the market value of the UK's residential wealth far outstripped the value of these other forms of capital in 2012. That gap, by the way, is likely to have increased still further in the past two years as the housing market has started motoring again, while investment in fixed capital by businesses has flat-lined.
+Then there is the broader definition of capital that economists use. This includes "human capital" which refers to a population's education and skill levels. Another category of capital refers to social institutions, such as the rule of law and public welfare systems, which help high-income economies to function (relatively) smoothly. Analysts have also increasingly begun to speak of environmental capital, meaning public goods such as breathable air, clean rivers and the unspoilt countryside. The trouble is that these latter types of capital are impossible to value since they are not traded, which is probably why Piketty has not included them in his own definition.
+Mainstream economics holds that that capital, alongside labour, is a "factor of production". This theory suggests an economy that increases its stocks of capital and workers (the latter through population growth and immigration) will produce more output. But the rate and sustainability of that output growth, the theory goes, will be determined by a magic ingredient called productivity. This refers to the efficiency with which people and firms utilise those two factors of production.
+This theoretical framework has been the subject to challenge since it was developed in the 1950s. But it is, nevertheless, a useful intellectual way into the Piketty debate.
+Piketty's new formula, which has generated such controversy, is beguilingly simple. He argues that history suggests the financial rate of return on financial assets will tend to be higher than the economic growth rate, ultimately leading to greater accumulation of riches in the hands of the already wealthy and, thus, ever higher inequality.
+But what determines the return on wealth? Piketty's long-run wealth data for France shows that until the 20th century land was the dominant component of the nation's financial assets. But today the biggest share of national wealth is housing. It's a similar situation in the UK and many other advanced economies.
+We all know there are bubbles and that they can persist for very long periods without popping, but if wealth is dominated by housing it is hard to see how its returns can outstrip the population's income (and GDP) growth over the long run. Furthermore, what determines growth rates? Under the mainstream model it's not the level of financial wealth (as calculated by Piketty) but fixed capital goods and, often intangible and immeasurable, forms of capital. This points to a couple of lessons. In the UK context, rising house prices will not secure our future prosperity. We can't become richer by trading ever more expensive houses between ourselves.
+What will deliver rising living standards are government measures such as improving children's education, public investment in infrastructure and protection for our science research base (something for ministers to bear in mind as they weigh up the Pfizer bid for AstraZeneca). In the private sector it means the development of high-value added technologies and the provision of innovative and popular services.
+There is no question Piketty has made a valuable contribution to our understanding of the distribution of wealth in rich countries and shone a timely spotlight on where we are heading. He may even be right in his forecast that returns on wealth will outstrip growth over the 21st century. But definitions matter because they tend to guide thought. And when we talk about "capital" we should not speak exclusively of wealth and asset values à la Piketty. The conversation must include the intangible capital that we need, as a society, to nurture and which should, ultimately, make us more prosperous.
+Document IND0000020140509ea590000c

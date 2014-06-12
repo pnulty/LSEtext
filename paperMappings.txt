@@ -1,0 +1,7 @@
+Mail Online,Daily Mail:Mail
+Financial Times,Financial Times (FT.Com):FT
+The Times,times.co.uk,
+express.co.uk,The Daily Express:Express
+Daily Star:Star
+The Guardian,theguardian.com:Guardian
+

@@ -1,0 +1,21 @@
+{"newspaper":"The Daily Express","id:"390"}
+____
+  
+News
+Airports in chaos due to IT glitch
+Sally Guyoncourt   
+138 words
+1 May 2014
+The Daily Express
+THEEXP
+1; Lancs
+8
+English
+(c) 2014 Express Newspapers   
+THOUSANDS of passengers arriving at Britain's major airports faced long delays last night after a computer glitch at passport control.
+Travellers at Heathrow, Gatwick, Stansted, Manchester and Birmingham were confronted with lengthy queues at immigration desks following a fault on UK Border Force computers.
+Passengers reported fights at Gatwick over queue-jumping, as delays of up to three hours developed.
+The glitch affected self-service e-Passport gates, operating a facial recognition check, and manned customs desks.
+Staff had to input passport details manually rather than simply scanning documents.
+A Government spokesman last night said: "We are currently experiencing temporary IT problems which may add to the time taken to conduct passport checks. We are working to rectify this issue. Our priority remains security of the border."
+Document THEEXP0020140501ea510000n
