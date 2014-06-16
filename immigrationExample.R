@@ -4,9 +4,7 @@ library(lda)
 library(ca)
 custom_stopwords <- readLines('/home/paul/Dropbox/LSETextMining/code/stopwords.txt')
 
-
-
-path = '/home/paul/Dropbox/LSETextMining/code/sample/'
+path = '/home/paul/Dropbox/LSETextMining/code/mergedArticles/'
 attNames = c("paperName", "id")
 
 newsCorpus <- corpusFromFilenames(path, attNames, sep = "_")
@@ -17,37 +15,51 @@ topPapers<- names(sort(paperCount, decreasing = TRUE)[1:21])
 reducedCorpus <- subset(newsCorpus, paperName %in% topPapers)
 
 # make a dfm and triplet matrix dfm from without grouping (just by doc)
-byDocDfm <- dfm(reducedCorpus)
-byDocDfmTrim <- dfmTrim(byDocDfm, minCount=1, minDoc=2) 
+byDocDfm <- dfm(reducedCorpus, stem=TRUE)
+byDocDfmTrim <- dfmTrim(byDocDfm, minCount=3, minDoc=2) 
 finalDfmByDoc <- stopwordsRemove(byDocDfmTrim, custom_stopwords)
 finalDfmByDoc <- finalDfmByDoc[which(rowSums(finalDfmByDoc) > 0),] 
 finalTripletByDoc<- dfm2tmformat(finalDfmByDoc)
 
 
-#LDA models
-ldaByDocVEM20 <- LDA(finalTripletByDoc, method="VEM", control = list(alpha = 0.1), k = 20)
-ldaByDocVEMNoAlpha20 <- LDA(finalTripletByDoc, method="VEM", k = 20)
-ldaByDocGibbs20 <- LDA(finalTripletByDoc, method="Gibbs", control = list(alpha = 0.1), k = 20)
-ldaByDocGibbsNoAlpha20 <- LDA(finalTripletByDoc, method="Gibbs", k = 20)
+
+
+ldaByDocGibbsNoAlpha30 <- LDA(finalTripletByDoc, method="VEM", k = 30)
+ctmByDocGibbsNoAlpha30 <- CTM(finalTripletByDoc, method="VEM", k = 30)
 
 #CTM models
-ctmByDocVEM15 <- LDA(finalTripletByDoc, method="VEM", control = list(alpha = 0.1), k = 15)
-ctmByDocVEMNoAlpha15 <- LDA(finalTripletByDoc, method="VEM", k = 15)
-ctmByDocGibbs15 <- LDA(finalTripletByDoc, method="Gibbs", control = list(alpha = 0.1), k = 15)
-ctmByDocGibbsNoAlpha15 <- LDA(finalTripletByDoc, method="Gibbs", k = 15)
 
-get_terms(ctmByDocGibbsNoAlpha15, k=20)
-#culture  = 3
-#economic = 7
+#culture  = 6
+#economic = 24
+#jobs = 3
+#finance = 28
 
-model <- ctmByDocGibbsNoAlpha15
+model <- ldaByDocGibbsNoAlpha30
 topics <- topics(model)
-postTopics <- posterior(model)$topics
+postTopics <- data.frame(posterior(model)$topics)
+
+x <- sapply(rownames(postTopics),strsplit,'_')
+paperNames <- sapply(x, head, n=1)
+postTopics["paper"]<- paperNames
+library(plyr)
+byPaperTopics <-ddply(postTopics, "paper", numcolwise(mean))
+
+library(tidyr)
+
 leftPapers <- c("Guardian", "Independent")
-rightPapers <- c("Express", "Mail")
+rightPapers <- c("Express", "Mail", 'Times','FT','Telegraph')
+keepPapers <- c("Express", "Mail","Guardian", "Independent",'Times','FT','Telegraph')
+byPaperTopics<-byPaperTopics[byPaperTopics$paper %in% keepPapers,]
 
-reducedCorpus <- corpusAddAttributes(reducedCorpus, postTopics,name="posteriors")
 
+barplot(byPaperTopics$X3, names.arg=byPaperTopics$paper)
+barplot(byPaperTopics$X6, names.arg=byPaperTopics$paper)
+barplot(byPaperTopics$X9, names.arg=byPaperTopics$paper)
+
+
+barplot(byPaperTopics$X21, names.arg=byPaperTopics$paper)
+barplot(byPaperTopics$X24, names.arg=byPaperTopics$paper)
+barplot(byPaperTopics$X28, names.arg=byPaperTopics$paper)
 
 
 
