@@ -1,0 +1,90 @@
+Outputting similarity of 'immigr' with 'foreign':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'foreign'
+0.7463636169288964
+Outputting similarity of 'immigr' with 'work':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'work'
+0.7025827486070021
+Outputting similarity of 'immigr' with 'jobseek':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'jobseek'
+0.3930364514696195
+Outputting similarity of 'immigr' with 'claim':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'claim'
+0.8444135922690099
+Outputting similarity of 'immigr' with 'romanian':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'romanian'
+0.7715678378018537
+Outputting similarity of 'immigr' with 'bulgarian':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'bulgarian'
+0.6687661507415541
+Outputting similarity of 'immigr' with 'work':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'work'
+0.7025827486070021
+Outputting similarity of 'immigr' with 'illeg':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'illeg'
+0.31516708063978865
+Outputting similarity of 'immigr' with 'invad':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'invad'
+0.0
+Outputting similarity of 'immigr' with 'invas':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'invas'
+0.22983487936906505
+Outputting similarity of 'immigr' with 'threat':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'threat'
+0.6988457467741248
+Outputting similarity of 'immigr' with 'school':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'school'
+0.4402787818825457
+Outputting similarity of 'immigr' with 'veil':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'veil'
+0.6095488047617804
+Outputting similarity of 'immigr' with 'islam':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'islam'
+0.29073843199745997
+Outputting similarity of 'immigr' with 'terror':
+Opened query vector store from file: termtermvectors.bin
+No Lucene index for query term weighting, so all query terms will have same weight.
+Found vector for 'immigr'
+Found vector for 'terror'
+0.5006841984703891
