@@ -3,6 +3,8 @@ sample/
 documents/
 newsArticles/
 mergedArticles/
+mergedArticlesTime/
 articles/
+withoutFT
 *~
 *.pyc

@@ -1,41 +1,18 @@
 The Independent
-i
-dailystar.co.uk
 Financial Times
-thetimes.co.uk
+thetimescouk
 The Times
-express.co.uk
+expresscouk
 The Guardian
-theguardian.com
+theguardiancom
 The Sunday Telegraph
 The Telegraph Online
 Independent Online
 Daily Mail
 The Daily Telegraph
-Birmingham Mail
 Mail Online
 The Sun
-thesun.co.uk
-Daily Star
-The Observer
+thesuncouk
 The Daily Express
-The Sunday Mirror
-The Sunday Times
-Sunday Express
-The Mail on Sunday
-Scottish Daily Record
-London Evening Standard Online
-London Evening Standard
-Sunday Herald
-Belfast Telegraph
-Metro
-Financial Times (FT.Com)
-The Scotsman
-Liverpool Echo
-Independent On Sunday
-thescottishsun.co.uk
-Manchester Evening News
-manchestereveningnews.co.uk
-birminghammail.co.uk
-liverpoolecho.co.uk
-City AM
+Daily Mirror
+Financial Times FTCom

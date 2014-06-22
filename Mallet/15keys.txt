@@ -1,0 +1,15 @@
+0	0.05569	film show pm tv series street theatre radio music ea play english id year channel newspaper star band set comedy 
+1	0.27679	time life back work good years day dont man don make things lot year job family money love young bit 
+2	0.12897	business tax uk london year million market money housing years economy cent house prices growth economic company income pay government 
+3	0.06105	british minister workers labour brokenshire foreign nanny secretary home cameron speech working cable metropolitan cheap elite james jobs march prime 
+4	0.05367	women home care family mother uk office health case children wood told yashika nhs centre hospital bageerathi female minister ms 
+5	0.07186	border town passengers mail airport found local hours french london travel wine police car made flight calais damonl ea area 
+6	0.14108	home police court office year uk years english justice law newspaper human judge told ea news mail crime illegal british 
+7	0.30476	bbc public media political time debate newspaper long government case grdn programme politicians guardiancouk grultd power social state march fact 
+8	0.10369	eu european britain europe union referendum cameron merkel putin germany anti brussels german countries minister british parliament prince national prime 
+9	0.29827	uk britain year eu migration migrants figures government net english work number news ea benefits id newspaper home countries cent 
+10	0.07248	war book world life history church english century books american story christian great death art jewish america british father class 
+11	0.22091	labour party cameron voters election tory tories miliband vote conservative minister conservatives lib david ed prime government general leader dems 
+12	0.16536	ukip farage party nigel european clegg leader eu elections debate political british nick cent ukips britain europe country voters parties 
+13	0.14334	scotland english school uk cent scottish schools ethnic education children white british students language london england university britain minority groups 
+14	0.12429	racist party english comments mp asked news group made candidate interview told newspaper racism mail leader labour black views campaign 

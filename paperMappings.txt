@@ -1,10 +1,11 @@
 Mail Online,Daily Mail:Mail
-Financial Times,Financial Times (FT.Com):FT
-The Times,times.co.uk,thetimes.co.uk:Times
-express.co.uk,The Daily Express:Express
-Daily Star,dailystar.co.uk:Star
-The Guardian,theguardian.com:Guardian
+Financial Times,Financial Times FTCom:FT
+The Times,timescouk,thetimescouk:Times
+expresscouk,The Daily Express:Express
+Daily Star,dailystarco.uk:Star
+The Guardian,theguardiancom:Guardian
 Independent Online,The Independent:Independent
 London Evening Standard,London Evening Standard Online:EveningStandard
 The Daily Telegraph,The Telegraph Online:Telegraph
-thesun.co.uk,The Sun:Sun
+thesuncouk,The Sun:Sun
+Daily Mirror,The Mirror:Mirror

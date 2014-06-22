@@ -1,49 +1,74 @@
 import collections
 import matplotlib.pyplot as plt
 import numpy
+import sys
 """ Read in the Mallet output file and analyse the topic distribution"""
 
 
-dist = open('../Mallet/documentTopics.txt').readlines()
 
-paperDist = collections.defaultdict(list)
-for line in dist:
-	line=line.split()
-	doc = line[1].split('/')[-1]
-	paper = doc.split('_')[0]
-	print paperDist.keys()
-	paperDist[paper] = [float(n) for n in line[2:]]
+"""initialize mappings of papers, days and weeks to posterior
+document topic distributions"""
+def read_dist(dist):
 
-rightPapers = ['Mail', 'The Mail on Sunday','Express','Telegraph', 'The Sunday Telegraph']
-leftPapers = ['Guardian','Independent', 'Independent On Sunday', 'The Observer']
-centrePapers = ['FT', 'Times']
-keepPapers = rightPapers+leftPapers+centrePapers
-
-
-cultureVals=collections.defaultdict(list)
-econVals=collections.defaultdict(list)
-for k in keepPapers:
-	print k
-	print paperDist[k][0]
-	print cultureVals[k]
+	paperDist = collections.defaultdict(list)
+	dayDist = collections.defaultdict(list)
+	weekDist = collections.defaultdict(list)
+	for line in dist:
+		line=line.split()
+		doc = line[1].split('/')[-1]
+		paper = doc.split('_')[0]
+		day = doc.split('_')[1]
+		week = str(int(day)/7)
+		dayDist[day].append([float(n) for n in line[2:]])
+		weekDist[week].append([float(n) for n in line[2:]])
+		paperDist[paper].append([float(n) for n in line[2:]])
+	return(paperDist, dayDist, weekDist)
 
 
 
+rightPapers = ['telegraph', 'mail', 'express']
+leftPapers = ['independent','guardian']
+centrePapers = [ 'sun', 'times', 'ft']
+papers = leftPapers+centrePapers+rightPapers
+days = [str(d) for d in range(45,180)]
+weeks = [str(d) for d in range(7,21)]
 
 
-	cultureVals[k].append(paperDist[k][0])
-	econVals[k].append(paperDist[k][6])
 
-#print cultureVals
-#print keepPapers
+def topic_per_attribute(topic, attribute,attDist):
+	topicByAttribute  = collections.defaultdict(list)
+	meanValues=[]
+	for a in attribute:
+		topicVals=[]
+		if a in attDist.keys() and len(attDist[a]) > 5:
+			thisAtt = attDist[a]
+			for doc in thisAtt:
+				topicVals.append(doc[topic])
+		else:
+			topicVals.append(0.0)
+		topicByAttribute[a].append(topicVals)
+	for a in attribute: meanValues.append(numpy.mean(topicByAttribute[a]))
+	return(meanValues)
 
-paperNames =[]
-meanValues =[] 
-for x in keepPapers:
-	paperNames.append(x)
-	meanValues.append(numpy.mean(cultureVals[x]))
-plt.bar(range(len(keepPapers)), meanValues, align="center")
+
+dist = open('../Mallet/documentTopics30FT.txt').readlines()
+paperDist, dayDist, weekDist = read_dist(dist)
+
+attLabels = papers
+
+print paperDist.keys()
+meanValues = topic_per_attribute(23, papers, paperDist)
+
+plt.bar(range(len(attLabels)), meanValues, align="center")
 #plt.suptitle("Topic 0: Identity/Education")
-plt.suptitle("Topic 6: Economy")
-plt.xticks(range(len(keepPapers)), keepPapers)
+plt.suptitle("The benefits topic including FT.", fontsize=30)
+
+ax = plt.subplot() 
+for label in (ax.get_xticklabels() + ax.get_yticklabels()):
+    label.set_fontname('Arial')
+    label.set_fontsize(20)
+
+plt.xticks(range(len(attLabels)), attLabels)
+
+
 plt.show()
