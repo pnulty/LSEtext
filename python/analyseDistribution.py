@@ -51,17 +51,16 @@ def topic_per_attribute(topic, attribute,attDist):
 	return(meanValues)
 
 
-dist = open('../Mallet/documentTopics30FT.txt').readlines()
+dist = open('../Mallet/documentTopics30.txt').readlines()
 paperDist, dayDist, weekDist = read_dist(dist)
 
 attLabels = papers
 
-print paperDist.keys()
-meanValues = topic_per_attribute(23, papers, paperDist)
+meanValues = topic_per_attribute(17, papers, paperDist)
 
 plt.bar(range(len(attLabels)), meanValues, align="center")
 #plt.suptitle("Topic 0: Identity/Education")
-plt.suptitle("The benefits topic including FT.", fontsize=30)
+plt.suptitle(" 'Brokenshire by Paper", fontsize=30)
 
 ax = plt.subplot() 
 for label in (ax.get_xticklabels() + ax.get_yticklabels()):

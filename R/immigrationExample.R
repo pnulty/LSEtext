@@ -16,7 +16,7 @@ reducedCorpus <- subset(newsCorpus, paperName %in% topPapers)
 
 # make a dfm and triplet matrix dfm from without grouping (just by doc)
 byDocDfm <- dfm(reducedCorpus, stem=TRUE)
-byDocDfmTrim <- dfmTrim(byDocDfm, minCount=3, minDoc=2) 
+byDocDfmTrim <- dfmTrim(byDocDfm, minCount=50, minDoc=20) 
 finalDfmByDoc <- stopwordsRemove(byDocDfmTrim, custom_stopwords)
 finalDfmByDoc <- finalDfmByDoc[which(rowSums(finalDfmByDoc) > 0),] 
 finalTripletByDoc<- dfm2tmformat(finalDfmByDoc)

@@ -6,5 +6,6 @@ mergedArticles/
 mergedArticlesTime/
 articles/
 withoutFT
+tweets/
 *~
 *.pyc

@@ -613,3 +613,10 @@ standard
 words
 financial
 ft
+http
+youd
+youll
+youre
+youve
+dont
+im
